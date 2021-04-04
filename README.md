@@ -1,2 +1,1 @@
-"# oop-with-js" 
-"# oop-with-js" 
+# OOP 패러다임!

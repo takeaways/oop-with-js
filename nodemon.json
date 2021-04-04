@@ -1,7 +1,0 @@
-{
-  "watch":[
-    "built-in.js"
-  ],
-  "exec":"built-in.js",
-  "ext":"js json jsx"
-}
